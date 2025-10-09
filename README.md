@@ -25,7 +25,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm MUKASA MOHAMEDY</h1>
-<h3 align="center">A passionate frontend developer from Tanzania</h3>
+<h3 align="center">A passionate Software developer from Tanzania</h3>
 
 - 💬 Ask me about **Flutter, Django and Python**  
 - 📫 How to reach me **mukasamohamedy@gmail.com**
